@@ -1,0 +1,39 @@
+[
+  {
+    "name": "John",
+    "age": 30,
+    "address": {
+      "street": "123 Main St",
+      "city": "London",
+      "zip": "12345"
+    }
+  },
+  {
+    "name": "Shuva",
+    "age": 35,
+    "address": {
+      "street": "123 Lowden St",
+      "city": "Kolkata",
+      "zip": "560003"
+    }
+  },
+  {
+    "name": "Aniya",
+    "age": 5,
+    "address": {
+      "street": "333 borewell",
+      "city": "Kolkata",
+      "zip": "560003"
+    }
+  },
+  {
+    "name": "Aditi",
+    "age": 25,
+    "address": {
+      "street": "1 rowden St",
+      "city": "delhi",
+      "zip": "88888"
+    }
+  }
+]
+
